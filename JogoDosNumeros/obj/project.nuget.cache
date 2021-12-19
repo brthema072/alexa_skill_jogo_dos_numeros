@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndLglLy8tCJt06lCR76MmBTEhtTsekaCz3m6VJzX/3ugLMUqrG5/shP50EJqyJqqWLk2GVkgnTgvYhdnQTT8KA==",
+  "success": true,
+  "projectFilePath": "F:\\projetos\\csharp\\JogoDosNumeros\\JogoDosNumeros\\JogoDosNumeros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\alexa.net\\1.18.0\\alexa.net.1.18.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\amazon.lambda.serialization.json\\2.0.0\\amazon.lambda.serialization.json.2.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

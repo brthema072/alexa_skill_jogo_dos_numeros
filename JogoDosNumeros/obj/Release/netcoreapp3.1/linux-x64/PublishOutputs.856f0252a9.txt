@@ -1,0 +1,8 @@
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\JogoDosNumeros.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\JogoDosNumeros.deps.json
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\JogoDosNumeros.runtimeconfig.json
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\JogoDosNumeros.pdb
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\Alexa.NET.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.Json.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

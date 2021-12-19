@@ -1,0 +1,17 @@
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\JogoDosNumeros.deps.json
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\JogoDosNumeros.runtimeconfig.json
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\JogoDosNumeros.runtimeconfig.dev.json
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\JogoDosNumeros.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\JogoDosNumeros.pdb
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\Alexa.NET.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.Json.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.csproj.AssemblyReference.cache
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.AssemblyInfoInputs.cache
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.AssemblyInfo.cs
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.csproj.CoreCompileInputs.cache
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.csproj.CopyComplete
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.dll
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.pdb
+F:\projetos\csharp\JogoDosNumeros\JogoDosNumeros\obj\Debug\netcoreapp3.1\JogoDosNumeros.genruntimeconfig.cache
